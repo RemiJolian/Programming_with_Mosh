@@ -1,0 +1,6 @@
+course = '''
+Hi John.
+Are u ok?
+This is first email
+support team
+'''
